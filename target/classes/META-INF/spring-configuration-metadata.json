@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.boraji.tutorial.springboot.configuration.MysqlConfiguration",
+      "name": "spring.mysql.datasource",
+      "sourceMethod": "mysqlDataSource()",
+      "type": "javax.sql.DataSource"
+    },
+    {
+      "sourceType": "com.boraji.tutorial.springboot.configuration.PostgresqlConfiguration",
+      "name": "spring.postgresql.datasource",
+      "sourceMethod": "postgresqlDataSource()",
+      "type": "javax.sql.DataSource"
+    }
+  ],
+  "properties": []
+}
