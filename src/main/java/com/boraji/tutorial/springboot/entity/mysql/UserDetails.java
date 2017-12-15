@@ -6,12 +6,12 @@ import java.io.Serializable;
 @Entity
 @Table(name = "userdetails")
 public class UserDetails implements Serializable {
-	private static final long serialVersionUID = -1848119459950659679L;
+
+	private static final long serialVersionUID = -9019470250770543773L;
 
 	@Id
-	@Column
-	@GeneratedValue
-	private long id;
+	@GeneratedValue(strategy=GenerationType.IDENTITY)
+	private Long id;
 
     @Column
     private String username;
@@ -25,7 +25,19 @@ public class UserDetails implements Serializable {
 	@Column
 	private String address;
 	@Column
-	private String token = "";
+	private String token = "ewrtyuio";
+
+	public UserDetails() {
+	}
+
+	public UserDetails(String username, String name, String email, String password, String address, String token) {
+		this.username = username;
+		this.name = name;
+		this.email = email;
+		this.password = password;
+		this.address = address;
+		this.token = token;
+	}
 
 	public String getToken() {
 		return token;
@@ -43,16 +55,16 @@ public class UserDetails implements Serializable {
 		this.address = address;
 	}
 
-	public long getId() {
+	public String getName() {
+		return name;
+	}
+
+	public Long getId() {
 		return id;
 	}
 
-	public void setId(long id) {
+	public void setId(Long id) {
 		this.id = id;
-	}
-
-	public String getName() {
-		return name;
 	}
 
 	public void setName(String name) {

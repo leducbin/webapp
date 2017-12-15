@@ -12,7 +12,7 @@
 		<c:if test="${param.error ne null}">
 			<div style="color: red">Invalid credentials.</div>
 		</c:if>
-		<form action="/login" method="post">
+		<form action="/loginpg" method="post">
 			<div class="form-group">
 				<label for="username">UserName:</label> <input type="text"
 					class="form-control" id="username" name="username">
@@ -20,21 +20,6 @@
 			<div class="form-group">
 				<label for="password">Password:</label> <input type="password"
 					class="form-control" id="password" name="password">
-			</div>
-
-			<div class="form-group">
-				<label for="email">Email:</label> <input type="email"
-														  class="form-control" id="email" name="email">
-			</div>
-
-			<div class="form-group">
-				<label for="address">Address:</label> <input type="text"
-														  class="form-control" id="address" name="address">
-			</div>
-
-			<div class="form-group">
-				<label for="name">Name:</label> <input type="text"
-														  class="form-control" id="name" name="name">
 			</div>
 
 			<button type="submit" class="btn btn-success">Submit</button>

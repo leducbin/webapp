@@ -17,7 +17,7 @@ public class HelloController {
 
     private static final Logger logger = LoggerFactory.getLogger(HelloController.class);
 
-   @RequestMapping("/")
+   @RequestMapping("/loginpg")
    public String index() throws Exception {
       return "login";
    }

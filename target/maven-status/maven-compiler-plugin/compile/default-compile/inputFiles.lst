@@ -2,11 +2,13 @@ C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\co
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\dao\mysql\UserRepository.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\dao\postgresql\CourseRepository.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\resolver\MySimpleMappingExceptionResolver.java
+C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\configuration\AuthConfig.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\entity\mysql\Task.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\configuration\MysqlConfiguration.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\exceptions\EmployeeNotFoundException.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\service\TaskService.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\entity\cassandrasql\Customer.java
+C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\dao\postgresql\UsersRepository.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\service\CourseService.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\controller\GreetingController.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\service\UserService.java
@@ -20,9 +22,11 @@ C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\co
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\dao\mysql\AuthorRepository.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\MainApp.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\controller\HomeController.java
+C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\entity\postgresql\User.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\controller\HelloController.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\controller\LoginController.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\entity\mysql\UserDetails.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\controller\GlobalExceptionHandler.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\dao\cassandra\CustomerRepository.java
+C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\service\UsersService.java
 C:\Users\ldbin\IdeaProjects\spring-boot-web-application-example\src\main\java\com\boraji\tutorial\springboot\entity\postgresql\Book.java

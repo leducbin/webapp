@@ -1,7 +1,11 @@
 com\boraji\tutorial\springboot\dao\mysql\UserRepository.class
 com\boraji\tutorial\springboot\service\UserService.class
 com\boraji\tutorial\springboot\controller\LoginController.class
+com\boraji\tutorial\springboot\dao\postgresql\UsersRepository.class
 com\boraji\tutorial\springboot\entity\mysql\UserDetails.class
 com\boraji\tutorial\springboot\resolver\MySimpleMappingExceptionResolver.class
+com\boraji\tutorial\springboot\entity\postgresql\User.class
 com\boraji\tutorial\springboot\controller\GlobalExceptionHandler.class
+com\boraji\tutorial\springboot\configuration\AuthConfig.class
+com\boraji\tutorial\springboot\service\UsersService.class
 com\boraji\tutorial\springboot\exceptions\EmployeeNotFoundException.class
